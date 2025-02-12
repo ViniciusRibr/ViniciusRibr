@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, Mobile programming, Website Creation and AI usage.
 - 💞️ I’m looking to collaborate on AI Startups.
 - 📫 How to reach me ...
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 
 <!---
