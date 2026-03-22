@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @ViniciusRibr
-- 👀 I’m interested in AI.
-- 🌱 I’m currently learning Python, Mobile programming, Website Creation and AI usage.
-- 💞️ I’m looking to collaborate on AI Startups.
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+# Hey, I'm Vinicius 👋
 
-<!---
-ViniciusRibr/ViniciusRibr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full Stack Developer & AI enthusiast building products from scratch.
+Currently focused on mobile development and AI-powered applications.
+
+---
+
+## 🚀 Projects
+
+**Lumvela** — E-learning mobile app that teaches soft skills and career knowledge (communication, logic, emotional intelligence) through gamified, bite-sized lessons. Built with React Native, Expo, Firebase and Gemini AI.
+
+**Ticket Platform** — Event ticketing system with QR code generation. Built with FastAPI on the backend.
+
+---
+
+## 🛠 Stack
+
+React Native · Expo · React · Node.js · Python · FastAPI · Firebase · SQL · Gemini AI
+
+---
+
+## 🤝 Open to
+
+Freelance projects · AI startup collaborations · Interesting side projects
+
+---
+
+## 📫 Reach me
+
+<!-- Add your preferred contact here: email, LinkedIn, etc. -->
+
+---
+
+> 🇧🇷 **Sobre mim** — Recém-formado no técnico em Desenvolvimento de Sistemas, construindo meu portfólio e buscando colaborações em projetos reais. Se você tem uma ideia ou precisa de um dev, fala comigo.
