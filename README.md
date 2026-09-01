@@ -1,27 +1,27 @@
 # Hey, I'm Vinicius 👋
 
-Full Stack Developer & AI enthusiast building products from scratch.
-Currently focused on mobile development and AI-powered applications.
+Full Stack Developer & and a bit of an AI enthusiast building products from scratch.
+Currently focused on knowing more!
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects on development
 
 **Lumvela** — E-learning mobile app that teaches soft skills and career knowledge (communication, logic, emotional intelligence) through gamified, bite-sized lessons. Built with React Native, Expo, Firebase and Gemini AI.
 
-**Ticket Platform** — Event ticketing system with QR code generation. Built with FastAPI on the backend.
+**BarberFlow** - Single-tenant scheduling platform for barbershops, with Next.js and Supabase, focused on real time conflict prevention (bank constraint) and RLS from the schema.
 
 ---
 
 ## 🛠 Stack
 
-React Native · Expo · React · Node.js · Python · FastAPI · Firebase · SQL · Gemini AI
+React Native · Expo · TypeScript · NestJS · Python · FastAPI · (I'm "I like everything" type of guy.) 
 
 ---
 
 ## 🤝 Open to
 
-Freelance projects · AI startup collaborations · Interesting side projects
+Interesting side projects
 
 ---
 
